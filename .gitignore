@@ -1,0 +1,29 @@
+# IntelliJ / GoLand
+.idea/
+
+# Environment variables
+.env
+
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test binary
+*.test
+
+# Go coverage
+*.out
+
+# Build output
+bin/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
